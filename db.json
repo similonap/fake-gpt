@@ -194,61 +194,6 @@
             "id": 39,
             "question": "how do I make a cake",
             "response": "To make a cake, mix flour, sugar, eggs, butter, and baking powder. Bake in an oven for a set time and temperature."
-        },
-        {
-            "id": 40,
-            "question": "what is a black hole",
-            "response": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape from it."
-        },
-        {
-            "id": 41,
-            "question": "what is the smallest planet",
-            "response": "Mercury is the smallest planet in our solar system."
-        },
-        {
-            "id": 42,
-            "question": "who discovered America",
-            "response": "Christopher Columbus is commonly credited with discovering America in 1492, although the continent was already inhabited by indigenous peoples."
-        },
-        {
-            "id": 43,
-            "question": "what is the longest river",
-            "response": "The Nile is generally considered the longest river in the world."
-        },
-        {
-            "id": 44,
-            "question": "who wrote Harry Potter",
-            "response": "The Harry Potter series was written by J.K. Rowling."
-        },
-        {
-            "id": 45,
-            "question": "what is the fastest car",
-            "response": "The title of the fastest car can change, but models by Bugatti, Hennessey, and Koenigsegg are often contenders."
-        },
-        {
-            "id": 46,
-            "question": "what is a galaxy",
-            "response": "A galaxy is a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity."
-        },
-        {
-            "id": 47,
-            "question": "what is photosynthesis",
-            "response": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water."
-        },
-        {
-            "id": 48,
-            "question": "how does the internet work",
-            "response": "The internet works by connecting computers and servers around the world, allowing them to communicate and share data."
-        },
-        {
-            "id": 49,
-            "question": "what is a computer virus",
-            "response": "A computer virus is a type of malicious software that, when executed, replicates itself by modifying other computer programs and inserting its own code."
-        },
-        {
-            "id": 50,
-            "question": "what is democracy",
-            "response": "Democracy is a form of government in which the people have the authority to choose their governing legislation."
         }
     ]
 }
