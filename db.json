@@ -45,8 +45,8 @@
         },
         {
             "id": 8,
-            "question": "what's your favorite color",
-            "response": [{"content": "I don't have a favorite color. I like them all!", "type": "text"}]
+            "question": "who are you?",
+            "response": [{"content": "I'm a chatbot, designed to assist with information and conversation.", "type": "text"}]
         },
         {
             "id": 9,
