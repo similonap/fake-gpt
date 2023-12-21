@@ -88,7 +88,7 @@
         },
         {
             "id": 8,
-            "question": "who are you?",
+            "question": "who are you",
             "response": [
                 {
                     "content": "I'm a chatbot, designed to assist with information and conversation.",
@@ -205,7 +205,8 @@
                     "type": "text"
                 },
                 {
-                    "content": "http://"
+                    "content": "https://raw.githubusercontent.com/similonap/fake-gpt/main/images/robodog.png",
+                    "type": "image"
                 }
             ]
         },
@@ -238,6 +239,30 @@
                 {
                     "content": "#0000ff",
                     "type": "color"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "question": "can you show me your picture",
+            "response": [
+                {
+                    "content": "https://raw.githubusercontent.com/similonap/fake-gpt/main/images/chatbot.png",
+                    "type": "image"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "question": "can you show me a picture of a dog",
+            "response": [
+                {
+                    "content": "https://raw.githubusercontent.com/similonap/fake-gpt/main/images/robodog.png",
+                    "type": "image"
+                },
+                {
+                    "content": "https://raw.githubusercontent.com/similonap/fake-gpt/main/images/funnydog.png",
+                    "type": "image"
                 }
             ]
         }
