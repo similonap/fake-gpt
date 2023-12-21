@@ -4,118 +4,241 @@
             "id": 1,
             "question": "hello",
             "response": [
-                {"content": "hey there", "type": "text"},
-                {"content": "hey what's up?", "type": "text"},
-                {"content": "hello, how can I help you?", "type": "text"}
+                {
+                    "content": "hey there",
+                    "type": "text"
+                },
+                {
+                    "content": "hey what's up?",
+                    "type": "text"
+                },
+                {
+                    "content": "hello, how can I help you?",
+                    "type": "text"
+                }
             ]
         },
         {
             "id": 2,
             "question": "how are you",
             "response": [
-                {"content": "good", "type": "text"},
-                {"content": "fine thanks. how are you?", "type": "text"},
-                {"content": "I'm doing well, how about you?", "type": "text"}
+                {
+                    "content": "good",
+                    "type": "text"
+                },
+                {
+                    "content": "fine thanks. how are you?",
+                    "type": "text"
+                },
+                {
+                    "content": "I'm doing well, how about you?",
+                    "type": "text"
+                }
             ]
         },
         {
             "id": 3,
             "question": "what's up",
-            "response": [{"content": "nothing much", "type": "text"}]
+            "response": [
+                {
+                    "content": "nothing much",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 4,
             "question": "what can you do",
-            "response": [{"content": "I can answer questions and chat with you!", "type": "text"}]
+            "response": [
+                {
+                    "content": "I can answer questions and chat with you!",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 5,
             "question": "tell me a joke",
-            "response": [{"content": "Why don't scientists trust atoms? Because they make up everything!", "type": "text"}]
+            "response": [
+                {
+                    "content": "Why don't scientists trust atoms? Because they make up everything!",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 6,
             "question": "what's the weather like",
-            "response": [{"content": "I'm not sure, I recommend checking a weather app for the most accurate information.", "type": "text"}]
+            "response": [
+                {
+                    "content": "I'm not sure, I recommend checking a weather app for the most accurate information.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 7,
             "question": "give me a random fact",
-            "response": [{"content": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.", "type": "text"}]
+            "response": [
+                {
+                    "content": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 8,
             "question": "who are you?",
-            "response": [{"content": "I'm a chatbot, designed to assist with information and conversation.", "type": "text"}]
+            "response": [
+                {
+                    "content": "I'm a chatbot, designed to assist with information and conversation.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 9,
             "question": "can you give advice",
-            "response": [{"content": "Sure, I can try. What do you need advice on?", "type": "text"}]
+            "response": [
+                {
+                    "content": "Sure, I can try. What do you need advice on?",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 10,
             "question": "what's the meaning of life",
-            "response": [{"content": "That's a deep question! Many believe it's to seek happiness and fulfillment.", "type": "text"}]
+            "response": [
+                {
+                    "content": "That's a deep question! Many believe it's to seek happiness and fulfillment.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 11,
             "question": "can you sing",
-            "response": [{"content": "I can't sing, but I can write you a song's lyrics!", "type": "text"}]
+            "response": [
+                {
+                    "content": "I can't sing, but I can write you a song's lyrics!",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 12,
             "question": "do you like sports",
-            "response": [{"content": "I don't have personal likes, but I can provide information on various sports.", "type": "text"}]
+            "response": [
+                {
+                    "content": "I don't have personal likes, but I can provide information on various sports.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 13,
             "question": "what's your favorite food",
-            "response": [{"content": "I don't eat, but I can suggest recipes!", "type": "text"}]
+            "response": [
+                {
+                    "content": "I don't eat, but I can suggest recipes!",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 14,
             "question": "are you a robot",
-            "response": [{"content": "Yes, I'm an AI, designed to assist with information and conversation.", "type": "text"}]
+            "response": [
+                {
+                    "content": "Yes, I'm an AI, designed to assist with information and conversation.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 15,
             "question": "tell me a story",
-            "response": [{"content": "Once upon a time in a faraway land, there was a wise owl who shared wisdom with all the forest creatures...", "type": "text"}]
+            "response": [
+                {
+                    "content": "Once upon a time in a faraway land, there was a wise owl who shared wisdom with all the forest creatures...",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 16,
             "question": "how do computers work",
-            "response": [{"content": "Computers process information using hardware and software, performing calculations and operations to execute commands.", "type": "text"}]
+            "response": [
+                {
+                    "content": "Computers process information using hardware and software, performing calculations and operations to execute commands.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 17,
             "question": "what is love",
-            "response": [{"content": "Love is a complex set of emotions, behaviors, and beliefs associated with strong feelings of affection, protectiveness, warmth, and respect.", "type": "text"}]
+            "response": [
+                {
+                    "content": "Love is a complex set of emotions, behaviors, and beliefs associated with strong feelings of affection, protectiveness, warmth, and respect.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 18,
             "question": "what is your name",
-            "response": [{"content": "I'm just a chatbot, I don't have a personal name.", "type": "text"}]
+            "response": [
+                {
+                    "content": "I'm just a chatbot, I don't have a personal name.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 19,
             "question": "do you have any pets",
-            "response": [{"content": "No, I don't have pets. But I can help you find information about pet care!", "type": "text"}]
+            "response": [
+                {
+                    "content": "No, I don't have pets. But I can help you find information about pet care!",
+                    "type": "text"
+                },
+                {
+                    "content": "http://"
+                }
+            ]
         },
         {
             "id": 20,
             "question": "can you play games",
-            "response": [{"content": "I can help you with game rules and information, but I can't play them myself.", "type": "text"}]
+            "response": [
+                {
+                    "content": "I can help you with game rules and information, but I can't play them myself.",
+                    "type": "text"
+                }
+            ]
         },
         {
             "id": 21,
             "question": "what's your favorite color",
             "response": [
-                {"content": "I don't have a favorite color. I like them all!", "type": "text"},
-                {"content": "#ff0000", "type": "color"},
-                {"content": "#00ff00", "type": "color"},
-                {"content": "#0000ff", "type": "color"}
+                {
+                    "content": "I don't have a favorite color. I like them all!",
+                    "type": "text"
+                },
+                {
+                    "content": "#ff0000",
+                    "type": "color"
+                },
+                {
+                    "content": "#00ff00",
+                    "type": "color"
+                },
+                {
+                    "content": "#0000ff",
+                    "type": "color"
+                }
             ]
         }
     ]
